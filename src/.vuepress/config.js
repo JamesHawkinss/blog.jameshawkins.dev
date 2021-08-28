@@ -18,7 +18,7 @@ module.exports = {
     docsDir: '/posts',
     lastUpdated: false,
     nav: [
-      { text: 'twitter', link: 'https://twitter.com/JamessHawkinsss' },
+      { text: 'twitter', link: 'https://twitter.com/jamess_hawkins' },
       { text: 'github', link: 'https://github.com/JamesHawkinss' },
       { text: 'contact', link: 'mailto:jhawki2005@gmail.com' }
     ],
