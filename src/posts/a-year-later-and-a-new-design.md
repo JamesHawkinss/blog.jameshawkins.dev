@@ -8,7 +8,7 @@ description: don't you think it looks nice?
 
 As many times before, it's been a long time since I've posted here - this is the first post of 2021! (happy new year)
 
-Following a spur of motivation to make my online presence :sparkles: shmexy :sparkles:, I decided to recode and redesign my [website](https://squeezebox.dev) and blog. For those interested in the technical mumbo-jumbo, I'll be talking about what is behind the scenes later in this article.
+Following a spur of motivation to make my online presence :sparkles: shmexy :sparkles:, I decided to recode and redesign my [website](https://jameshawkins.dev) and blog. For those interested in the technical mumbo-jumbo, I'll be talking about what is behind the scenes later in this article.
 
 Before that, though, I feel obligated to talk about what I've been up to...
 
