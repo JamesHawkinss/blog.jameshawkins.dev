@@ -1,5 +1,5 @@
 {
-  "name": "blog.squeezebox.dev",
+  "name": "blog.jameshawkins.dev",
   "version": "0.0.1",
   "description": "james' blog",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "name": "james hawkins",
     "email": "jhawki2005@gmail.com"
   },
-  "repository": "https://github.com/JamesHawkinss/blog.squeezebox.dev/blog.squeezebox.dev",
+  "repository": "https://github.com/JamesHawkinss/blog.jameshawkins.dev",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
